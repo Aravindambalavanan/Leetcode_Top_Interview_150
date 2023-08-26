@@ -926,7 +926,7 @@
       <td>Palindrome Number</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Plus One</td>
@@ -944,13 +944,13 @@
       <td>Sqrt(x)</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Pow(x, n)</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Max Points on a Line</td>
