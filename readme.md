@@ -9,6 +9,10 @@
     alt="C#"
   />
   <img
+    src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white"
+    alt="Go"
+  />
+  <img
     src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&amp;logoColor=white"
     alt="Java"
   />
@@ -30,7 +34,7 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Java and Python Programming languages.
+  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java and Python Programming languages.
 </p>
 <h2>Questions List</h2>
 <table>
