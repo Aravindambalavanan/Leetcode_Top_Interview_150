@@ -960,7 +960,7 @@
       <td>Max Points on a Line</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
