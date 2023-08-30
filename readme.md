@@ -164,7 +164,7 @@
       <td>Length of Last Word</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Longest Common Prefix</td>
@@ -176,7 +176,7 @@
       <td>Reverse Words in a String</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Zigzag Conversion</td>
@@ -188,7 +188,7 @@
       <td>Find the Index of the First Occurrence in a String</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Text Justification</td>
@@ -433,7 +433,7 @@
       <td>Add Two Numbers</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td>✅</td>
+      <td></td>
     </tr>
     <tr>
       <td>Merge Two Sorted Lists</td>
