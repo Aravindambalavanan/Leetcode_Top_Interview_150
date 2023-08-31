@@ -392,7 +392,7 @@
       <td>Valid Parentheses</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Simplify Path</td>
@@ -404,7 +404,7 @@
       <td>Min Stack</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Evaluate Reverse Polish Notation</td>
