@@ -410,13 +410,13 @@
       <td>Evaluate Reverse Polish Notation</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Basic Calculator</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
