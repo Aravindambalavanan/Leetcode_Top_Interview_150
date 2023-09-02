@@ -20,6 +20,10 @@
     src="https://img.shields.io/badge/Python-0078D7.svg?logo=python&amp;logoColor=white"
     alt="Python"
   />
+  <img 
+    src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white"
+    alt="Ruby"
+  />
   <img
     src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white"
     alt="Neovim"
@@ -34,7 +38,7 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java and Python Programming languages.
+  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, Python and Ruby Programming languages.
 </p>
 <h2>Questions List</h2>
 <table>

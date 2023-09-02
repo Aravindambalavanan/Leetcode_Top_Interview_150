@@ -1,5 +1,6 @@
 from typing import List
 
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         e = {}
@@ -10,4 +11,3 @@ class Solution:
                 e[n] = 0
 
         return max(zip(e.values(), e.keys()))[1]
-        
