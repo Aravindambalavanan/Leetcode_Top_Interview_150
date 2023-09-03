@@ -24,6 +24,10 @@
     src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white"
     alt="Ruby"
   />
+  <img 
+    src="https://img.shields.io/badge/Rust-202020.svg?logo=Rust&logoColor=white"
+    alt="Rust"
+  />
   <img
     src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white"
     alt="Neovim"
@@ -40,7 +44,10 @@
 <p>
   This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, Python and Ruby Programming languages.
 </p>
-<h2>Questions List</h2>
+<h2>Questions List <img 
+    src="https://img.shields.io/badge/Progress-26%2F150-0078D4" 
+    alt="Progress bar"
+  /></h2>
 <table>
   <thead>
     <tr>
@@ -402,7 +409,7 @@
       <td>Simplify Path</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Min Stack</td>
