@@ -45,7 +45,7 @@
   This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, Python and Ruby Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-26%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-28%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -216,13 +216,13 @@
       <td>Valid Palindrome</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Is Subsequence</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Two Sum II - Input Array Is Sorted</td>
