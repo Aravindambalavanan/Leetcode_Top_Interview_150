@@ -20,14 +20,6 @@
     src="https://img.shields.io/badge/Python-0078D7.svg?logo=python&amp;logoColor=white"
     alt="Python"
   />
-  <img 
-    src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=Ruby&logoColor=white"
-    alt="Ruby"
-  />
-  <img 
-    src="https://img.shields.io/badge/Rust-202020.svg?logo=Rust&logoColor=white"
-    alt="Rust"
-  />
   <img
     src="https://img.shields.io/badge/Neovim-57A143.svg?logo=Neovim&amp;logoColor=white"
     alt="Neovim"
@@ -42,10 +34,10 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, Python and Ruby Programming languages.
+  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, and Python Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-28%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-34%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -900,37 +892,37 @@
       <td>Add Binary</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Reverse Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Number of 1 Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Single Number</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Single Number II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Bitwise AND of Numbers Range</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
