@@ -37,7 +37,7 @@
   This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, and Python Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-28%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-34%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -892,37 +892,37 @@
       <td>Add Binary</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Reverse Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Number of 1 Bits</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Single Number</td>
       <td>Easy</td>
       <td>🟢</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Single Number II</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Bitwise AND of Numbers Range</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td colspan="4" align="center">
