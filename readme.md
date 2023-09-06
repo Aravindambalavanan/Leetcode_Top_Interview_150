@@ -9,10 +9,6 @@
     alt="C#"
   />
   <img
-    src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white"
-    alt="Go"
-  />
-  <img
     src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&amp;logoColor=white"
     alt="Java"
   />
@@ -34,10 +30,10 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Go, Java, and Python Programming languages.
+  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Java, and Python Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-34%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-37%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -729,13 +725,13 @@
       <td>Combinations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Permutations</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Combination Sum</td>
@@ -747,7 +743,7 @@
       <td>N-Queens II</td>
       <td>Hard</td>
       <td>🔴</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Generate Parentheses</td>
