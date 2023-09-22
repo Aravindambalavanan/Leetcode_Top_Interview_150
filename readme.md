@@ -33,7 +33,7 @@
   This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, C#, Java, and Python Programming languages.
 </p>
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-38%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-41%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -432,7 +432,7 @@
       <td>Add Two Numbers</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Merge Two Sorted Lists</td>
@@ -462,7 +462,7 @@
       <td>Remove Nth Node From End of List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Remove Duplicates from Sorted List II</td>
@@ -474,7 +474,7 @@
       <td>Rotate List</td>
       <td>Medium</td>
       <td>🟡</td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>Partition List</td>
